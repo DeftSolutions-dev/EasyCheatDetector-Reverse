@@ -1,5 +1,7 @@
 # EasyCheatDetector (eCD) v3.13 реверс (В ознакомительных целях, для разработчиков чекеров, или читов.)
 
+My contact: [t.me/desirepro](http://t.me/desirepro)
+
 > Бесплатный античит-сканер от FUNGUN для CS 1.6 / CS:GO / CS2 / Minecraft / RUST и других Source/GoldSrc игр.
 > Репозиторий: https://github.com/UnrealKaraulov/EasyCheatDetector
 
